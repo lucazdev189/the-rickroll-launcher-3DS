@@ -1,2 +1,4 @@
 # the-rickroll-launcher-3DS
-simple homebrew program
+very basic homebrew program.
+
+Made with devkitpro and devkitarm
